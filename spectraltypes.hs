@@ -1,5 +1,5 @@
 module Spectraltypes
-  where
+ where
 -- p in the spectral type stands for decimal point e.g. o9p5V is o9.5V
 -- SpT = [ U-B , B-V , V-Ks , J-H , H-K , Teff ]
 
